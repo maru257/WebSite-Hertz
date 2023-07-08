@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "name": "beer",
+      "price": 5000,
+      "label": "cass",
+      "description": "시원하고 맛있는 국산 맥주",
+      "img_src": "assets/img/img1.jpg"
+    },
+    {
+      "name": "soju",
+      "price": 5000,
+      "label": "fresh",
+      "description": "차갑고 달달한 국산 소주",
+      "img_src": "assets/img/img2.jpg"
+    },
+    {
+      "name": "jin-tonic",
+      "price": 8000,
+      "label": "bombay",
+      "description": "청량감 있는 해외 음료",
+      "img_src": "assets/img/img3.jpg"
+    }
+  ]
+}
