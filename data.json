@@ -20,6 +20,13 @@
       "label": "bombay",
       "description": "청량감 있는 해외 음료",
       "img_src": "assets/img/img3.jpg"
+    },
+    {
+      "name": "크림새우파스타",
+      "price": 17000,
+      "label": "",
+      "description": "부드러운 크림 새우 파스타",
+      "img_src": "assets/img/크림새우파스타.jpg"
     }
   ]
 }
